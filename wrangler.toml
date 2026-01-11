@@ -1,0 +1,7 @@
+name = "no-as-service"
+main = "index.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+PORT = "3000"

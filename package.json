@@ -4,7 +4,9 @@
   "description": "A lightweight API that returns random rejection or no reasons.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
   },
   "author": "hotheadhacker",
   "license": "MIT",
